@@ -94,6 +94,21 @@ ENV/
 # Rope project settings
 .ropeproject
 
+# JS
+node_modules
+/dist
+/tests/e2e/reports/
+.env.local
+.env.*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
 
 ######
 .DS_Store
