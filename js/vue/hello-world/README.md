@@ -1,4 +1,4 @@
-# hello-world
+# Default Hello World app
 
 ## Project setup
 ```
